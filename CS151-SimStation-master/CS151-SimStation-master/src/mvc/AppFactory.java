@@ -1,9 +1,3 @@
-/*
-Jonathan Etiz & Luan Nguyen
-AppFactory.java
-Version 0
- */
-
 package mvc;
 
 public interface AppFactory {
