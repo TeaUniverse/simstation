@@ -1,8 +1,3 @@
-/*
-Jonathan Etiz & Luan Nguyen
-Publisher.java
-Version 0
- */
 
 package mvc;
 
