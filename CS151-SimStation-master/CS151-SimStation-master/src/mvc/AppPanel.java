@@ -1,9 +1,3 @@
-/*
-Jonathan Etiz & Luan Nguyen
-AppPanel.java
-Version 0
- */
-
 package mvc;
 
 import javax.swing.*;
