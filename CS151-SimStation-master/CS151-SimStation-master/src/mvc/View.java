@@ -1,9 +1,3 @@
-/*
-Jonathan Etiz & Luan Nguyen
-View.java
-Version 0
- */
-
 package mvc;
 
 import javax.swing.*;
