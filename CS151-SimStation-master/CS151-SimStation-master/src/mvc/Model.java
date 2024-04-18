@@ -1,9 +1,3 @@
-/*
-Jonathan Etiz & Luan Nguyen
-Model.java
-Version 0
- */
-
 package mvc;
 
 import java.io.Serializable;
